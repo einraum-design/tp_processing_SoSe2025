@@ -1,5 +1,5 @@
 # tp_processing_WS2025
-Kursmaterial TP Processing (p5js) Wintersemester 2025
+Kursmaterial TP Processing (p5js) Sommersemester 2025
 Kursdokumentation TP Processing TH|W–S FB Gestaltung  
 
 ## 28.3.2025 – Einfache Formen und Farben

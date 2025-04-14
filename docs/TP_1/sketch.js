@@ -17,7 +17,7 @@ function setup() {
   //background(255, 255, 0);
   background(120);
   
-  fill(100, 100, 255);
+  fill(100, 100, 255, 120);
   
   // rect (x, y, w, h);
   rect(100, 60, 100, 70);
@@ -44,7 +44,7 @@ function setup() {
   
   ellipse(100, 60, 100, 70);
   
-  stroke(0, 255, 0);
+  stroke(0, 255, 0, 100);
   strokeWeight(5);
   point(300, 100);
   

@@ -15,7 +15,7 @@ random(MIN, MAX) -> gibt eine ...  von MIN - MAX
 
 
 function setup() {
-  createCanvas(400, 300);
+  createCanvas(600, 700);
   angleMode(DEGREES);
   
   // die frameRate ist standartmäßig bei
@@ -24,9 +24,9 @@ function setup() {
 }
 
 function draw() {
-  background(220, 10);
-  fill(random(0, 255), 0, 0, mouseY);
-  ellipse(mouseX, 200 + random(-20, 20), 100, 100);
+  //background(220);
+  fill(255, 0, 0, mouseY);
+  ellipse(mouseX, 200, 100, 100);
   
   fill(255, 255, 0);
   arc(60, 60, 100, 100, mouseX, 360-mouseX, PIE);
@@ -38,6 +38,6 @@ function draw() {
   fill(255);
   rect(0, height-40, width, 40);
   
-  circle(frameCount/3.0, 150, frameCount/10.0);
+  circle(frameCount, 150, frameCount/10.0);
   
 }

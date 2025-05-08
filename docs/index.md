@@ -224,7 +224,6 @@ else {
     // wenn alle Bedingungen nicht erfüllt waren, wird der else Block ausgeführt
 }
 ```
-<<<<<<< HEAD
 
 ## 25.4.2025 Erweiterung if-Bedingungen
 - [TP 5](https://einraum-design.github.io/tp_processing_SoSe2025/TP_5/index.html) [(--> Code)](https://github.com/einraum-design/tp_processing_SoSe2025/blob/main/docs/TP_5/sketch.js)
@@ -283,5 +282,3 @@ Das Zeichenkoordiantensystem lässt sich innerhalb der void draw wieder auf Stan
 ```
  resetMatrix();
 ```
-=======
->>>>>>> 109d55fe4f2a05286c31e865cb1542524b30afe0

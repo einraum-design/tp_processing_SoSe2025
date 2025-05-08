@@ -1,4 +1,4 @@
-Kursmaterial TP Processing (p5js) Sommersemester 2025 Kursdokumentation TP Processing TH|W–S FB Gestaltung
+Kursmaterial TP Processing (p5js) Sommersemester 2025 Kursdokumentation TP Processing TH&#124;W–S FB Gestaltung
 
 ## 28.3.2025 – Einfache Formen und Farben
 - [TP_1](https://einraum-design.github.io/tp_processing_SoSe2025/TP_1/index.html) [(--> Code)](https://github.com/einraum-design/tp_processing_SoSe2025/blob/main/docs/TP_1/sketch.js)
@@ -231,7 +231,7 @@ else {
 
 Um mehrere Bedingung miteinander zu verbinden gibt es ***Verknüpfungsoperatoren***
 - CONDITION_A && CONDITION_B --> Wenn Bedingung A UND Bedingung B erfüllt sind
-- CONDITION_A || CONDITION_B --> Wenn Bedingung A ODER Bedingung B (oder beide) erfüllt sind
+- CONDITION_A &#124;&#124; CONDITION_B --> Wenn Bedingung A ODER Bedingung B (oder beide) erfüllt sind
 
 
 Zusätzlich können noch mehrere "else if" Blöcke an eine if-Bedingung angehängt werden.

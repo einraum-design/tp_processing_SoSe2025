@@ -7,7 +7,8 @@ function draw() {
   background(220);
 
   
-  scale(2, 0.5);
+  
+  //scale(2, 0.5);
 
   // verschieben des Koodinatensystems
   // Verschiebe auf Schulter
